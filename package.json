@@ -1,0 +1,16 @@
+{
+  "name": "shubham.it",
+  "version": "1.0.0",
+  "description": "to provide scripts, automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "shubham",
+    "personal"
+  ],
+  "author": "Shubham Arora",
+  "license": "ISC"
+}
